@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 20%;
+	float:right;
+	margin: 15px;
+}
+
+.round {
+	border-radius: 25px;
+	background: #73AD21;
+	padding: 20px;
+	width: 400px;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.div1 {
+	width: 700px;
+	margin: 10px;
+	border: 1px solid blue;
+	content: "";
+    clear: both;
+    display: table;
+}
